@@ -1,0 +1,199 @@
+{
+  "methods": [
+    {
+      "deprecated": "false",
+      "description": "analyze color information of the whole picture",
+      "name": "AnalyzeColorOfThePicture",
+      "params": []
+    },
+    {
+      "deprecated": "false",
+      "description": "analyze color information of certain point (0~1, 0~1) of the picture",
+      "name": "AnalyzePointColorOfThePicture",
+      "params": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "deprecated": "false",
+      "description": "get dominate background color name from the computer vision result",
+      "name": "BackgroundColorNameFromCV",
+      "params": [],
+      "returnType": "text"
+    },
+    {
+      "deprecated": "false",
+      "description": "Get the X location (-1000~1000) of the detected face. faceNumber starts at 0",
+      "name": "CenterXOfFace",
+      "params": [{
+        "name": "faceNumber",
+        "type": "number"
+      }],
+      "returnType": "number"
+    },
+    {
+      "deprecated": "false",
+      "description": "Get the Y location (-1000~1000) of the detected face. faceNumber starts at 0",
+      "name": "CenterYOfFace",
+      "params": [{
+        "name": "faceNumber",
+        "type": "number"
+      }],
+      "returnType": "number"
+    },
+    {
+      "deprecated": "false",
+      "description": "get a description from the computer vision result",
+      "name": "DescriptionFromCV",
+      "params": [],
+      "returnType": "text"
+    },
+    {
+      "deprecated": "false",
+      "description": "get dominate foreground color name from the computer vision result",
+      "name": "ForegroundColorNameFromCV",
+      "params": [],
+      "returnType": "text"
+    },
+    {
+      "deprecated": "false",
+      "description": "get blue value (0-255) of the analyzed color. 0 if picture is void",
+      "name": "GetBlueValue",
+      "params": [],
+      "returnType": "number"
+    },
+    {
+      "deprecated": "false",
+      "description": "get green value (0-255) of the analyzed color. 0 if picture is void",
+      "name": "GetGreenValue",
+      "params": [],
+      "returnType": "number"
+    },
+    {
+      "deprecated": "false",
+      "description": "get red value (0-255) of the analyzed color. 0 if picture is void",
+      "name": "GetRedValue",
+      "params": [],
+      "returnType": "number"
+    },
+    {
+      "deprecated": "false",
+      "description": "Get the height (-1000~1000) of the detected face. faceNumber starts at 0",
+      "name": "HeightOfFace",
+      "params": [{
+        "name": "faceNumber",
+        "type": "number"
+      }],
+      "returnType": "number"
+    },
+    {
+      "deprecated": "false",
+      "description": "check whether the camera has successfully opened",
+      "name": "IsCameraOpen",
+      "params": [],
+      "returnType": "boolean"
+    },
+    {
+      "deprecated": "false",
+      "description": "check whether a picture has taken",
+      "name": "IsPictureTaken",
+      "params": [],
+      "returnType": "boolean"
+    },
+    {
+      "deprecated": "false",
+      "description": "Number of faces detected",
+      "name": "NumberOfFaces",
+      "params": [],
+      "returnType": "number"
+    },
+    {
+      "deprecated": "false",
+      "description": "Open a camera and prepare to record or take a picture",
+      "name": "OpenCamera",
+      "params": []
+    },
+    {
+      "deprecated": "false",
+      "description": "enter Bing API key for computer vision",
+      "name": "PrepareComputerVisionWithBingApiKey",
+      "params": [{
+        "name": "apiKey",
+        "type": "text"
+      }]
+    },
+    {
+      "deprecated": "false",
+      "description": "Start face detection and prepare to read faces data",
+      "name": "StartFaceDetection",
+      "params": []
+    },
+    {
+      "deprecated": "false",
+      "description": "submit the taken picture for computer vision analysis",
+      "name": "SubmitPictureForComputerVision",
+      "params": []
+    },
+    {
+      "deprecated": "false",
+      "description": "get a list of tags from computer vision result",
+      "name": "TagsFromCV",
+      "params": [],
+      "returnType": "list"
+    },
+    {
+      "deprecated": "false",
+      "description": "take a picture and prepare to analyze colors",
+      "name": "TakeAPicture",
+      "params": []
+    },
+    {
+      "deprecated": "false",
+      "description": "Get the width (-1000~1000) of the detected face. faceNumber starts at 0",
+      "name": "WidthOfFace",
+      "params": [{
+        "name": "faceNumber",
+        "type": "number"
+      }],
+      "returnType": "number"
+    }
+  ],
+  "nonVisible": "true",
+  "events": [
+    {
+      "deprecated": "false",
+      "description": "Event for AfterComputerVisionResult",
+      "name": "AfterComputerVisionResult",
+      "params": []
+    },
+    {
+      "deprecated": "false",
+      "description": "Event for AfterFaceDetection",
+      "name": "AfterFaceDetection",
+      "params": []
+    },
+    {
+      "deprecated": "false",
+      "description": "Event for AfterPictureTaken",
+      "name": "AfterPictureTaken",
+      "params": []
+    }
+  ],
+  "external": "false",
+  "helpString": "Component for simple vision techniques.",
+  "properties": [],
+  "type": "com.makeblock.appinventor.CamVision",
+  "showOnPalette": "true",
+  "version": "1",
+  "name": "CamVision",
+  "iconName": "http://appinventor.makeblock.com/mbot-icon.png",
+  "blockProperties": [],
+  "categoryString": "EXTENSION"
+}

@@ -1,0 +1,95 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: ZX/raIXCvGGzgu+fvnYbcbkwl5o=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: o6y8sVtIX+U/IVLmssNNO0HLJhM=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: G+o6PF81lzJHZGjIIUdM6ZH67RI=
+
+Name: resources.arsc
+SHA1-Digest: oo213p8gERdRDb8wbm2ho0jM3XA=
+
+Name: assets/external_comps/com.makeblock.appinventor.CamVision/compon
+ ent.json
+SHA1-Digest: DZN+yOPSrCNRgPZANqvSDLX2tok=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: Zq8vc9Y86WEOwIHvd2vvnF5LAjU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: SQ+EDW6LT1MQzUp5ojQoMCcG84Y=
+
+Name: assets/ding.mp3
+SHA1-Digest: VyTQNTDFeATMkK9VdJBKPHnzwjs=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: 1RFOJzpf/Tnrt6Cz+YXKri/dcQs=
+
+Name: res/anim/hold.xml
+SHA1-Digest: GKBZZAVQp1UHWpdLvgRKYsaN968=
+
+Name: assets/external_comps/com.makeblock.appinventor.CamVision/files/
+ AndroidRuntime.jar
+SHA1-Digest: 5HW6+EGnnRB5De9CgOa2ydj1Sl0=
+
+Name: assets/external_comps/com.makeblock.appinventor.CamVision/files/
+ component_build_info.json
+SHA1-Digest: SXTkEn3W/Ol11L+dcDbYQi8stNY=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: AI9U9jd8y+rlzUpfZu9q4VZpvP0=
+
+Name: res/drawable/ya.png
+SHA1-Digest: FQSLWqZyGEzuqMEyWqmrwa1Q0f8=
+
+Name: assets/DINGiPHONE6MESSAGE-SoundEffect-FreeDownload.mp3
+SHA1-Digest: VyTQNTDFeATMkK9VdJBKPHnzwjs=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: BmxIVohKX0sSkZa5gB/EAfFftlU=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xsEvJd6+HxCGf8W9bRNyDJagnZ0=
+
+Name: assets/demonstrative.ogg
+SHA1-Digest: cOGRcdmkzHpm1sUCz4jmcqb8HYo=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: kvKMcrPGTjRGBwIpiaKwUQ4F/bY=
+
+Name: classes.dex
+SHA1-Digest: modof5Zcdz4lQVOq8Eav0NCbVRU=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: ioBRfr3sxqvTP2Dsfg9bfrBu5NA=
+
+Name: assets/demonstrative.mp3
+SHA1-Digest: v9CSCophAV0N+R4b1ampyRKkk8g=
+
+Name: assets/external_comps/com.makeblock.appinventor.CamVision/extens
+ ion.properties
+SHA1-Digest: JyjyCHVtwNpsHm9ZXlYskVM5wMo=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: VE6Oh3BHy1caiImNmGoeHwMHt/I=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: VwO+DjHaulKaPlqfDFwicM7taAM=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: 9lXf30b08R2I7vWxAXL3x4EnFZU=
+
+Name: assets/DroneEye-512.png
+SHA1-Digest: lBxgbur4EKvW3t3ibXyFhyKzsOk=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: kzP0svpVXrshXRVnbxlRXjrmKZo=
+
+Name: assets/external_comps/com.makeblock.appinventor.CamVision/classe
+ s.jar
+SHA1-Digest: E+o8RUg0Krmh1l/sJIYP+sU3BRU=
+

@@ -1,0 +1,9 @@
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\bin\Debug\IMAU-Drone.exe.config
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\bin\Debug\IMAU-Drone.exe
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\bin\Debug\IMAU-Drone.pdb
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\obj\Debug\IMAU-Drone.csprojResolveAssemblyReference.cache
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\obj\Debug\IMAU_Drone.Form1.resources
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\obj\Debug\IMAU_Drone.Properties.Resources.resources
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\obj\Debug\IMAU-Drone.csproj.GenerateResource.Cache
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\obj\Debug\IMAU-Drone.exe
+c:\users\sarthak\documents\visual studio 2015\Projects\IMAU-Drone\IMAU-Drone\obj\Debug\IMAU-Drone.pdb
